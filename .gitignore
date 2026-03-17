@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and checkpoints
+*.pt
+*.pth
+
+# Environment files
+.env
